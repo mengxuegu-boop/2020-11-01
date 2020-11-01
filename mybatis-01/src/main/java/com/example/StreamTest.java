@@ -37,5 +37,8 @@ public class StreamTest {
         System.out.println("***********");
         System.out.println("***********");
         System.out.println("***********");
+        System.out.println("***********");
+
+
     }
 }
