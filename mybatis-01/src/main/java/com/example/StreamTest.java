@@ -40,6 +40,7 @@ public class StreamTest {
 
         System.out.println("lisi...");
 
+        System.out.println("wangwu...");
         System.out.println("zhaoliu...");
 
 
