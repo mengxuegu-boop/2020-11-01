@@ -35,5 +35,6 @@ public class StreamTest {
         System.out.println(reduce);
 
         System.out.println("***********");
+        System.out.println("***********");
     }
 }
